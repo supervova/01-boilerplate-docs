@@ -105,7 +105,7 @@ plugins:
   # - jekyll-email-protect
   # - jekyll-include-cache
   # - jekyll-paginate-v2
-  # - jekyll-tidy
+  - jekyll-tidy
 
 # See polylog 2020 and super-mark for more settings:
 # collections
