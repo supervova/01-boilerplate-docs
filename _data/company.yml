@@ -1,0 +1,17 @@
+company:
+  url: 'https://super-mark.ru/en'
+  title: SuperMark
+  tagline: 'UX/UI, development and&nbsp;marketing'
+  street: ''
+  city: 'Herceg Novi'
+  postal_code: 85340
+  country: 'Montenegro'
+  phone: +382 69 184524
+  phone_link: +38269184524
+  email: vladimir.nikishin(at)gmail.com
+  area_served: worldwide
+  opening_hours: Mo, Tu, We, Th, Fr 10:00-18:00
+  price_range: $20/h
+  latitude: ''
+  longitude: ''
+  map: https://goo.gl/maps/3REM94L3zk7ahRCbA

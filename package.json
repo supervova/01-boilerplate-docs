@@ -1,0 +1,15 @@
+{
+  "name": "01boilerplate-docs",
+  "version": "1.0.0",
+  "author": "Vladimir Nikishin <vlaimir.nikishin@gmail.com> (https://super-mark.ru/)",
+  "license": "MIT",
+  "scripts": {
+    "b": "gulp --p",
+    "start": "concurrently --kill-others 'gulp s' 'gulp w'"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  }
+}
